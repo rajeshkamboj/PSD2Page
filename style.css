@@ -1,3 +1,27 @@
-body{
-    background: -webkit-gradient(red,green);
+header {
+    color: #fff;
+    height: 100px;
+    line-height: 100px;
+}
+header a.logo{
+    float: left;
+    margin-right:10px;
+}
+
+header nav ul{
+    float: right;
+}
+
+body {
+    font-size: 16px;
+    line-height: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+
+header nav ul li {
+    padding-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
 }
