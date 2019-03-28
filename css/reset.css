@@ -64,3 +64,7 @@ ul{
     list-style: none;
 }
 ul li {display: inline-block}
+
+ol,ul {
+    margin-bottom:0px;
+}
