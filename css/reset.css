@@ -68,3 +68,7 @@ ul li {display: inline-block}
 ol,ul {
     margin-bottom:0px;
 }
+
+.section-heading{
+    padding:56px 0;
+}
