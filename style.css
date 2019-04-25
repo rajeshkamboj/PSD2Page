@@ -55,7 +55,7 @@ header nav ul li a:hover {
 }
 
 .slider h1 {
-    margin-top: 170px;
+    margin-top: 190px;
     color: #fff;
 }
 
@@ -65,9 +65,18 @@ header nav ul li a:hover {
 }
 
 .img1 {
-    background: url(img/slider/1.jpg);
+    background: url(img/slider/slider1.png);
     background-size: 100% 100%;
 }
+.img2 {
+    background: url(img/slider/slider2.png);
+    background-size: 100% 100%;
+}
+.img3 {
+    background: url(img/slider/slider3.png);
+    background-size: 100% 100%;
+}
+
 
 .services {
     text-align: center;
